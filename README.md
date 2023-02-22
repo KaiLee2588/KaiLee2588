@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 A EE grad student studying in Cyber Security and Networking. 
+
 Always learning to code C & Python.
+
 Currently working on 5G security reasearch. 
+
 Former StreamElements community translator(Trad.Ch)
 
 <!--
