@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-A EE grad student studying in Cyber Security and Networking. Always learning to code C & Python.
+A Computer Engineering grad student studying in Cyber Security and Networking. Always learning to code C & Python.
 
 Currently working on field in 5G, Cyber Security, Industrial Networking. 
 
-Former StreamElements community translator(Trad.Ch). Like to tranlate stuffs on the Internet to help others. 😄
+Former StreamElements community translator(Trad.Ch). Like to translate stuffs on the Internet to help others. 😄
 
 <!--
 **KaiLee2588/KaiLee2588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
