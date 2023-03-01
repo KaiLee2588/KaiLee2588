@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi there! 你好 lí-hó! こんにちは!   👋
 
-A Computer Engineering grad student studying in Cyber Security and Networking. Always learning to code C & Python.
-
+> A Computer & Communication Engineering grad student studying in Cyber Security and Networking. Always learning to code C & Python.
 Currently working on field in 5G, Cyber Security, Industrial Networking. 
+
+**正體(繁體)中文 Mandarin/Trad. Chinese✅, English✅, 日本語Japanese🔺.**
 
 #### *Former StreamElements community translator(Trad.Ch).*
 Like to translate stuffs on the Internet to help others. 😄
