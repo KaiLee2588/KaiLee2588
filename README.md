@@ -1,7 +1,10 @@
 ### Hi there! 你好 lí-hó! こんにちは!   👋
 
-> A Computer & Communication Engineering grad student studying in Cyber Security and Networking. Always learning to code C & Python.
-Currently working on field in 5G, Cyber Security, Industrial Networking. 
+***Currently an Embedded Software Engineer in EV/Automotive industry. Based in Taiwan.***
+*Master of Computer & Commuication Engineering , Bachelor of Communicaiton Enginnering.*
+Major in Cyber Security, Computer Networking & Mobile Networks.
+
+Always learning to code C & Python.
 
 **正體(繁體)中文 Mandarin/Trad. Chinese✅, 臺語Tâi-gí✅, English✅, 日本語Japanese🔺.**
 
