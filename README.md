@@ -1,7 +1,7 @@
 ### Hi there! 你好 lí-hó! こんにちは!   👋
 
-***Currently an Embedded Software Engineer in EV/Automotive industry. Based in Taiwan.***
-*Master of Computer & Commuication Engineering , Bachelor of Communicaiton Enginnering.*
+***Currently an Embedded Software Engineer in EV/Automotive industry. Based in Taiwan.***  
+*Master of Computer & Commuication Engineering , Bachelor of Communicaiton Enginnering.*  
 Major in Cyber Security, Computer Networking & Mobile Networks.
 
 Always learning to code C & Python.
